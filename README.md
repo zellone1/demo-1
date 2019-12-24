@@ -1,6 +1,4 @@
-# https-yazio-app.github.io-demo
-healthy eating,sports nutrition
-<html lang="en" class="smartbanner_show">
+<html lang="en" class="smartbanner_hide">
 <head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta http-equiv="language" content="en">
@@ -34,36 +32,11 @@ healthy eating,sports nutrition
 <link rel="alternate" href="https://www.yazio.com/es" hreflang="es">
 <title>Healthy Weight Loss &amp; Eating: Lose Weight Fast with YAZIO</title>
 <link href="https://www.yazio.com/assets/main-scripts-v2-ce97f482.css" rel="stylesheet">
-<link rel="stylesheet" href="https://www.yazio.com/assets/asyncrubik-280476af.css" media="all"><script type="text/javascript" async="" src="https://www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/gtm/js?id=GTM-T9JCGNZ&amp;cid=803692244.1576674757"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script id="asyncfont">
-    /*!
-     loadCSS: load a CSS file asynchronously.
-     [c]2014 @scottjehl, Filament Group, Inc.
-     Licensed MIT
-     */
-    function loadCSS(e,n,o,t){"use strict";var d=window.document.createElement("link"),i=n||window.document.getElementsByTagName("script")[0],s=window.document.styleSheets;return d.rel="stylesheet",d.href=e,d.media="only x",t&&(d.onload=t),i.parentNode.insertBefore(d,i),d.onloadcssdefined=function(n){for(var o,t=0;t<s.length;t++)s[t].href&&s[t].href.indexOf(e)>-1&&(o=!0);o?n():setTimeout(function(){d.onloadcssdefined(n)})},d.onloadcssdefined(function(){d.media=o||"all"}),d}
-        loadCSS("https://www.yazio.com/assets/asyncrubik-280476af.css", document.getElementById('asyncfont'));
-</script>
-<script type="text/javascript">
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+<link rel="stylesheet" href="https://www.yazio.com/assets/asyncrubik-280476af.css" media="all">
+ 
 
-    ga('create', 'UA-6126022-1', 'auto');
-    ga('require', 'GTM-T9JCGNZ');
-    ga('send', 'pageview');
-    ga('set', 'anonymizeIp', true);
 
-</script> 
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-1033578364"></script>
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'AW-1033578364');
-</script>
-<script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1033578364/?random=1577212562034&amp;cv=9&amp;fst=1577212562034&amp;num=1&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=1080&amp;u_w=1920&amp;u_ah=1005&amp;u_aw=1920&amp;u_cd=24&amp;u_his=2&amp;u_tz=360&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2oac61&amp;sendb=1&amp;ig=1&amp;data=event%3Dgtag.config&amp;frm=0&amp;url=https%3A%2F%2Fwww.yazio.com%2Fen&amp;ref=https%3A%2F%2Fwww.yazio.com%2F&amp;tiba=Healthy%20Weight%20Loss%20%26%20Eating%3A%20Lose%20Weight%20Fast%20with%20YAZIO&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script></head>
+</head>
 <body>
 <header>
 <nav class="navbar fixed-top">
@@ -79,7 +52,7 @@ healthy eating,sports nutrition
 <span class="hamburger-inner"></span>
 </span>
 </button>
-<div class="navbar-collapse full-width hidden" id="navbarCollapseContent">
+<div class="navbar-collapse full-width hidden" id="navbarCollapseContent" style="display: none;">
 <div class="navbar-nav mr-auto mt-lg-0">
 <div class="row">
 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
@@ -94,9 +67,9 @@ healthy eating,sports nutrition
 <div class="nav-item active">
 <div class="nav-link" href="#" id="navbarAboutUsDropdownLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 About YAZIO
-<img src="https://assets.yazio.com/frontend/images/icons.svg#icon-chevron-right" class="icon-svg dropdown-toggle" role="presentation" type="image/svg+xml">
+<img src="https://assets.yazio.com/frontend/images/icons.svg#icon-chevron-right" class="icon-svg dropdown-toggle" role="presentation" type="image/svg+xml" style="">
 </div>
-<div class="dropdown-menu js-desktop-auto-expand" aria-labelledby="navbarAboutUsDropdownLink">
+<div class="dropdown-menu js-desktop-auto-expand show" aria-labelledby="navbarAboutUsDropdownLink">
 <a class="dropdown-item font-body" href="http://press.yazio.com/en" target="_blank">
 <img class="icon-svg icon-chevron-right-dropdown" src="https://assets.yazio.com/frontend/images/icons.svg#icon-chevron-right" role="presentation"> <p class="font-body d-inline p-0">Press</p>
 </a>
@@ -121,9 +94,9 @@ About YAZIO
 <div class="nav-item active">
 <div class="nav-link" href="#" id="navbarCalculatorsDropdownLink" data-toggle="dropdown" aria-haspopup="false" aria-expanded="false">
 Calculators
-<img src="https://assets.yazio.com/frontend/images/icons.svg#icon-chevron-right" class="icon-svg dropdown-toggle" role="presentation" type="image/svg+xml">
+<img src="https://assets.yazio.com/frontend/images/icons.svg#icon-chevron-right" class="icon-svg dropdown-toggle" role="presentation" type="image/svg+xml" style="">
 </div>
-<div class="dropdown-menu js-desktop-auto-expand" aria-labelledby="navbarCalculatorsDropdownLink">
+<div class="dropdown-menu js-desktop-auto-expand show" aria-labelledby="navbarCalculatorsDropdownLink">
 <a class="dropdown-item font-body" href="https://www.yazio.com/en/bmi-calculator">
 <img class="icon-svg icon-chevron-right-dropdown" src="https://assets.yazio.com/frontend/images/icons.svg#icon-chevron-right" role="presentation"> <p class="font-body d-inline p-0">Body Mass Index (BMI) Calculator</p>
 </a>
@@ -227,12 +200,8 @@ Spanish (Español)
 </div>
 </div>
 <div class="store-badges_v2">
-<a href="https://itunes.apple.com/app/apple-store/id946099227?pt=9774818&amp;ct=yaziocom-menu&amp;mt=8" class="js-ios-badge-link" target="_blank" onclick="ga('send', 'event', 'AppStore', 'Menu', 'iOS')">
-<img src="https://assets.yazio.com/frontend/images/button-app-store-en.svg" alt="YAZIO iPhone &amp; iPad App on the App Store" title="YAZIO iPhone &amp; iPad App on the App Store" id="store-badges-menu-ios" class="store-img_v2 mini br-4" width="200" height="60" type="image/svg+xml">
-</a>
-<a href="https://play.google.com/store/apps/details?id=com.yazio.android&amp;referrer=utm_source%3Dyaziocom%26utm_medium%3Dbadge%26utm_campaign%3Dmenu%26anid%3Dadmob" class="js-android-badge-link" target="_blank" onclick="ga('send', 'event', 'AppStore', 'Menu', 'Android')">
-<img src="https://assets.yazio.com/frontend/images/button-play-store-en.svg" alt="YAZIO Android App on Google Play" title="YAZIO Android App on Google Play" id="store-badges-menu-android" class="store-badge-ml mini" type="image/svg+xml">
-</a>
+
+
  <p class="alt-store-ios hidden font-caption mt-2 text-center d-lg-none clear-margin-bottom">Also for <a class="textlink light font-caption" target="_blank" href="https://itunes.apple.com/app/apple-store/id946099227&amp;ct=yaziocom-menu&amp;mt=8">iOS</a></p>
 <p class="alt-store-android hidden font-caption mt-2 text-center d-lg-none clear-margin-bottom">Also for <a class="textlink light font-caption" target="_blank" href="https://play.google.com/store/apps/details?id=com.yazio.android&amp;referrer=utm_source%3Dyaziocom%26utm_medium%3Dbadge%26utm_campaign%3Dmenu%26anid%3Dadmob">Android</a></p>
 </div>
@@ -266,12 +235,8 @@ Spanish (Español)
 </div>
 </div>
 <div class="store-badges_v2 margin-top-32">
-<a href="https://itunes.apple.com/app/apple-store/id946099227?pt=9774818&amp;ct=yaziocom-homepage&amp;mt=8" class="js-ios-badge-link" target="_blank" onclick="ga('send', 'event', 'AppStore', 'Homepage', 'iOS')">
-<img src="https://assets.yazio.com/frontend/images/button-app-store-en.svg" alt="YAZIO iPhone &amp; iPad App on the App Store" title="YAZIO iPhone &amp; iPad App on the App Store" id="store-badges-home-ios" class="store-img_v2 small" width="200" height="60" type="image/svg+xml">
-</a>
-<a href="https://play.google.com/store/apps/details?id=com.yazio.android&amp;referrer=utm_source%3Dyaziocom%26utm_medium%3Dbadge%26utm_campaign%3Dhomepage%26anid%3Dadmob" class="js-android-badge-link" target="_blank" onclick="ga('send', 'event', 'AppStore', 'Homepage', 'Android')">
-<img src="https://assets.yazio.com/frontend/images/button-play-store-en.svg" alt="YAZIO Android App on Google Play" title="YAZIO Android App on Google Play" id="store-badges-home-android" class="small store-badge-ml" type="image/svg+xml">
-</a>
+
+
 <p class="alt-store-ios hidden font-caption mt-2 text-center d-lg-none clear-margin-bottom">Also for <a class="textlink light font-caption" target="_blank" href="https://itunes.apple.com/app/apple-store/id946099227&amp;ct=yaziocom-homepage&amp;mt=8">iOS</a></p>
 <p class="alt-store-android hidden font-caption mt-2 text-center d-lg-none clear-margin-bottom">Also for <a class="textlink light font-caption" target="_blank" href="https://play.google.com/store/apps/details?id=com.yazio.android&amp;referrer=utm_source%3Dyaziocom%26utm_medium%3Dbadge%26utm_campaign%3Dhomepage%26anid%3Dadmob">Android</a></p>
 </div>
@@ -364,95 +329,7 @@ Spanish (Español)
 </div>
 <hr>
 </section>
-<section class="container frontpage-success-stories_v2">
-<div class="row">
-<div class="col-12 d-flex justify-content-center">
-<h2>Success Stories</h2>
-</div>
-</div>
-<div class="row mt-0">
-<div class="col-12 col-sm-12 col-md-6 col-lg-6 success-story">
-<a href="https://www.yazio.com/en/success-stories/1-success-story-of-dennis.html" class="text-decoration-none" onclick="ga('send', 'event', 'SuccessStory', 'FrontpageTeaser', '1')">
-<article>
-<div class="title">
-<span class="title textlink">Dennis, 25</span>
-</div>
-<div class="image-before-after-container">
-<picture data-alt="Dennis lost 110 lb with YAZIO" data-default-src="https://images.yazio.com/frontend/success-stories/en/1-success-story-dennis.jpg?w=357">
-<source srcset="
-                        https://images.yazio.com/frontend/success-stories/en/1-success-story-dennis.jpg?w=357,
-                        https://images.yazio.com/frontend/success-stories/en/1-success-story-dennis.jpg?w=714 2x">
-<img src="https://images.yazio.com/frontend/success-stories/en/1-success-story-dennis.jpg?w=720" alt="Dennis lost 110 lb with YAZIO" title="Dennis lost 110 lb with YAZIO" class="teaser-image">
-</picture>
-<div class="weight-pill font-subtitle">-110 lb</div>
-</div>
-</article>
-<div class="quote-container_v2">
-<svg class="quote_sign_v2" width="39px" height="32px" viewBox="0 0 39 32" version="1.1" xmlns="http://www.w3.org/2000/svg">
-<defs>
-<linearGradient x1="0%" y1="83.6584186%" x2="100%" y2="16.3415814%" id="linearGradient-1">
-<stop stop-color="#F6409C" offset="0%"></stop>
-<stop stop-color="#C2185B" offset="100%"></stop>
-</linearGradient>
-</defs>
-<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-<g id="user-quote-en" transform="translate(19.500000, 16.500000) scale(1, -1) translate(-19.500000, -16.500000) translate(-1.000000, 0.000000)" fill="url(#linearGradient-1)">
-<path d="M37.67,3.35 C39.2058903,4.87598522 40.048184,6.96545194 40,9.13 C40.0868902,11.3278663 39.240562,13.4600322 37.67,15 C36.1513436,16.4694212 34.1129873,17.2782928 32,17.25 C30.3000377,17.2706832 28.6481822,16.6857987 27.34,15.6 C27.0772523,16.4650547 26.9523892,17.3660941 26.97,18.27 C27.048488,20.9378241 28.0484901,23.4961334 29.8,25.51 C31.566513,27.7855549 33.8823165,29.574883 36.53,30.71 L35.35,33 C31.3742208,31.3028649 27.9840753,28.4760051 25.6,24.87 C23.4486711,21.4499284 22.3337687,17.4800425 22.39,13.44 C22.2943169,10.5002598 23.0365104,7.59391325 24.53,5.06 C26.064244,2.41561744 28.9464953,0.849092645 32,1 C34.1335515,0.966071642 36.1859925,1.81673063 37.67,3.35 L37.67,3.35 Z M16.29,3.35 C17.8222243,4.87766873 18.6608178,6.96692335 18.61,9.13 C18.7007633,11.3265711 17.8579609,13.4590065 16.29,15 C14.7517032,16.4733053 12.6893774,17.2723216 10.56,17.22 C8.86651835,17.251107 7.21755998,16.6766312 5.91,15.6 C5.63879577,16.4633717 5.51043915,17.365246 5.53,18.27 C5.60848796,20.9378241 6.60849007,23.4961334 8.36,25.51 C10.126513,27.7855549 12.4423165,29.574883 15.09,30.71 L14,33 C10.0276153,31.2973237 6.63891618,28.47167 4.25,24.87 C2.08460625,21.4542439 0.955724128,17.4840523 1,13.44 C0.904316907,10.5002598 1.64651043,7.59391325 3.14,5.06 C4.66744963,2.43374148 7.5246193,0.870384495 10.56,1 C12.7135883,0.952969871 14.7895909,1.80438456 16.29,3.35 L16.29,3.35 Z" id="Shape"></path>
-</g>
-</g>
-</svg>
-<p class="font-body d-inline">
-If you want to accomplish something, then you will accomplish it, regardless of how bumpy the road is. I always told myself: I can't...
-</p><p class="textlink light">Continue reading</p>
-<p></p>
-</div>
-</a>
-</div>
-<div class="col-12 col-sm-12 col-md-6 col-lg-6 success-story">
-<a href="https://www.yazio.com/en/success-stories/2-success-story-of-sophia.html" class="text-decoration-none" onclick="ga('send', 'event', 'SuccessStory', 'FrontpageTeaser', '2')">
-<article>
-<div class="title">
-<span class="title textlink">Sophia, 24</span>
-</div>
-<div class="image-before-after-container">
-<picture data-alt="Sophia lost 75 lb with YAZIOsuccess-story-ofX" data-default-src="https://images.yazio.com/frontend/success-stories/en/2-success-story-sophia.jpg?w=357">
-<source srcset="
-                        https://images.yazio.com/frontend/success-stories/en/2-success-story-sophia.jpg?w=357,
-                        https://images.yazio.com/frontend/success-stories/en/2-success-story-sophia.jpg?w=714 2x">
-<img src="https://images.yazio.com/frontend/success-stories/en/2-success-story-sophia.jpg?w=720" alt="Sophia lost 75 lb with YAZIOsuccess-story-ofX" title="Sophia lost 75 lb with YAZIOsuccess-story-ofX" class="teaser-image">
-</picture>
-<div class="weight-pill font-subtitle">-75 lb</div>
-</div>
-</article>
-<div class="quote-container_v2">
-<svg class="quote_sign_v2" width="39px" height="32px" viewBox="0 0 39 32" version="1.1" xmlns="http://www.w3.org/2000/svg">
-<defs>
-<linearGradient x1="0%" y1="83.6584186%" x2="100%" y2="16.3415814%" id="linearGradient-1">
-<stop stop-color="#F6409C" offset="0%"></stop>
-<stop stop-color="#C2185B" offset="100%"></stop>
-</linearGradient>
-</defs>
-<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-<g id="user-quote-en" transform="translate(19.500000, 16.500000) scale(1, -1) translate(-19.500000, -16.500000) translate(-1.000000, 0.000000)" fill="url(#linearGradient-1)">
-<path d="M37.67,3.35 C39.2058903,4.87598522 40.048184,6.96545194 40,9.13 C40.0868902,11.3278663 39.240562,13.4600322 37.67,15 C36.1513436,16.4694212 34.1129873,17.2782928 32,17.25 C30.3000377,17.2706832 28.6481822,16.6857987 27.34,15.6 C27.0772523,16.4650547 26.9523892,17.3660941 26.97,18.27 C27.048488,20.9378241 28.0484901,23.4961334 29.8,25.51 C31.566513,27.7855549 33.8823165,29.574883 36.53,30.71 L35.35,33 C31.3742208,31.3028649 27.9840753,28.4760051 25.6,24.87 C23.4486711,21.4499284 22.3337687,17.4800425 22.39,13.44 C22.2943169,10.5002598 23.0365104,7.59391325 24.53,5.06 C26.064244,2.41561744 28.9464953,0.849092645 32,1 C34.1335515,0.966071642 36.1859925,1.81673063 37.67,3.35 L37.67,3.35 Z M16.29,3.35 C17.8222243,4.87766873 18.6608178,6.96692335 18.61,9.13 C18.7007633,11.3265711 17.8579609,13.4590065 16.29,15 C14.7517032,16.4733053 12.6893774,17.2723216 10.56,17.22 C8.86651835,17.251107 7.21755998,16.6766312 5.91,15.6 C5.63879577,16.4633717 5.51043915,17.365246 5.53,18.27 C5.60848796,20.9378241 6.60849007,23.4961334 8.36,25.51 C10.126513,27.7855549 12.4423165,29.574883 15.09,30.71 L14,33 C10.0276153,31.2973237 6.63891618,28.47167 4.25,24.87 C2.08460625,21.4542439 0.955724128,17.4840523 1,13.44 C0.904316907,10.5002598 1.64651043,7.59391325 3.14,5.06 C4.66744963,2.43374148 7.5246193,0.870384495 10.56,1 C12.7135883,0.952969871 14.7895909,1.80438456 16.29,3.35 L16.29,3.35 Z" id="Shape"></path>
-</g>
-</g>
-</svg>
-<p class="font-body d-inline">
-I tried to lose weight a lot of different ways, but they usually didn't work. So, I put together my own diet. Calorie counting was...
-</p><p class="textlink light">Continue reading</p>
-<p></p>
-</div>
-</a>
-</div>
-</div>
-<div class="row">
- <div class="col-12 col-sm-12 col-md-12 col-lg-12">
-<a href="https://www.yazio.com/en/success-stories"><button class="button-default clear-margin-bottom clear-margin-top">All Success Stories</button></a>
-</div>
-</div>
-<hr>
-</section>
+
 <section class="container frontpage-about-us_v2">
 <div class="row">
 <div class="col-12">
@@ -511,7 +388,7 @@ The YAZIO team has a vision: By creating our app, we want to add an important to
 <img class="icon-svg icon-star-rating_v2" src="https://assets.yazio.com/frontend/images/icons.svg#icon-star-filled" type="image/svg+xml">
 <img class="icon-svg icon-star-rating_v2" src="https://assets.yazio.com/frontend/images/icons.svg#icon-star-filled" type="image/svg+xml">
 <img class="icon-svg icon-star-rating_v2" src="https://assets.yazio.com/frontend/images/icons.svg#icon-star-filled" type="image/svg+xml">
-<img class="icon-svg icon-star-rating_v2" src="https://assets.yazio.com/frontend/images/icons.svg#icon-star-filled" type="image/svg+xml">
+ <img class="icon-svg icon-star-rating_v2" src="https://assets.yazio.com/frontend/images/icons.svg#icon-star-filled" type="image/svg+xml">
 </span>
 </div>
 <p class="font-body">I'm crazy about the app. The user concept and interface design are great! I also lost a good amount of weight in a short period of time without torturing myself. I've already upgraded to PRO to help support the app's further development.</p>
@@ -535,18 +412,14 @@ The YAZIO team has a vision: By creating our app, we want to add an important to
 </div>
 </section>
 </main>
-<footer>
+<footer class="">
 <section class="frontend-footer_v2 container ">
 <hr>
 <p class="font-subtitle">Download the YAZIO app</p>
 <div class="store-badges_v2 mt-3">
-<a href="https://itunes.apple.com/app/apple-store/id946099227?pt=9774818&amp;ct=yaziocom-footer&amp;mt=8" class="js-ios-badge-link" target="_blank" onclick="ga('send', 'event', 'AppStore', 'Footer', 'iOS')">
-<img src="https://assets.yazio.com/frontend/images/button-app-store-en.svg" alt="YAZIO iPhone &amp; iPad App on the App Store" title="YAZIO iPhone &amp; iPad App on the App Store" id="store-badge-footer-ios" class="store-img_v2 small" width="200" height="60" type="image/svg+xml">
-</a>
-<a href="https://play.google.com/store/apps/details?id=com.yazio.android&amp;referrer=utm_source%3Dyaziocom%26utm_medium%3Dbadge%26utm_campaign%3Dfooter%26anid%3Dadmob" class="js-android-badge-link" target="_blank" onclick="ga('send', 'event', 'AppStore', 'Footer', 'Android')">
-<img src="https://assets.yazio.com/frontend/images/button-play-store-en.svg" alt="YAZIO Android App on Google Play" title="YAZIO Android App on Google Play" id="store-badge-footer-android" class="small store-badge-ml" type="image/svg+xml">
-</a>
-<p class="alt-store-ios hidden font-caption mt-2 text-center d-lg-none clear-margin-bottom">Also for <a class="textlink light font-caption" target="_blank" href="https://itunes.apple.com/app/apple-store/id946099227&amp;ct=yaziocom-footer&amp;mt=8">iOS</a></p>
+
+
+
 <p class="alt-store-android hidden font-caption mt-2 text-center d-lg-none clear-margin-bottom">Also for <a class="textlink light font-caption" target="_blank" href="https://play.google.com/store/apps/details?id=com.yazio.android&amp;referrer=utm_source%3Dyaziocom%26utm_medium%3Dbadge%26utm_campaign%3Dfooter%26anid%3Dadmob">Android</a></p>
 </div>
 <hr class="margin-bottom-32">
@@ -562,12 +435,12 @@ Contact
 </div>
 </section>
 </footer>
-<script src="https://www.yazio.com/assets/runtime-b43e25d4.js"></script>
-<script src="https://www.yazio.com/assets/0-b4d9aecc.js"></script>
-<script src="https://www.yazio.com/assets/1-13e47802.js"></script>
-<script src="https://www.yazio.com/assets/main-scripts-v2-3233c5b5.js"></script>
-<script src="https://www.yazio.com/assets/smart-app-banner-v2-d1dde466.js"></script>
+
+
+
+
+
 <span id="smartapp-banner-strings" class="hidden" data-app-name="YAZIO Calorie Counter" data-app-description-android="FREE in Google Play" data-app-description-ios="FREE in the App Store" data-app-button="Install" data-app-button-download="Register for Free" data-app-button-register="system.general.label.register" data-app-rating="very good (77,416)" data-app-free-download="FREE" data-app-trimmed-frontpage=""></span>
 
 
-</body></html>
+<span style="border-radius: 3px !important; text-indent: 20px !important; width: auto !important; padding: 0px 4px 0px 0px !important; text-align: center !important; font: bold 11px / 20px &quot;Helvetica Neue&quot;, Helvetica, sans-serif !important; color: rgb(255, 255, 255) !important; background: url(&quot;data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMzBweCIgd2lkdGg9IjMwcHgiIHZpZXdCb3g9Ii0xIC0xIDMxIDMxIj48Zz48cGF0aCBkPSJNMjkuNDQ5LDE0LjY2MiBDMjkuNDQ5LDIyLjcyMiAyMi44NjgsMjkuMjU2IDE0Ljc1LDI5LjI1NiBDNi42MzIsMjkuMjU2IDAuMDUxLDIyLjcyMiAwLjA1MSwxNC42NjIgQzAuMDUxLDYuNjAxIDYuNjMyLDAuMDY3IDE0Ljc1LDAuMDY3IEMyMi44NjgsMC4wNjcgMjkuNDQ5LDYuNjAxIDI5LjQ0OSwxNC42NjIiIGZpbGw9IiNmZmYiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIxIj48L3BhdGg+PHBhdGggZD0iTTE0LjczMywxLjY4NiBDNy41MTYsMS42ODYgMS42NjUsNy40OTUgMS42NjUsMTQuNjYyIEMxLjY2NSwyMC4xNTkgNS4xMDksMjQuODU0IDkuOTcsMjYuNzQ0IEM5Ljg1NiwyNS43MTggOS43NTMsMjQuMTQzIDEwLjAxNiwyMy4wMjIgQzEwLjI1MywyMi4wMSAxMS41NDgsMTYuNTcyIDExLjU0OCwxNi41NzIgQzExLjU0OCwxNi41NzIgMTEuMTU3LDE1Ljc5NSAxMS4xNTcsMTQuNjQ2IEMxMS4xNTcsMTIuODQyIDEyLjIxMSwxMS40OTUgMTMuNTIyLDExLjQ5NSBDMTQuNjM3LDExLjQ5NSAxNS4xNzUsMTIuMzI2IDE1LjE3NSwxMy4zMjMgQzE1LjE3NSwxNC40MzYgMTQuNDYyLDE2LjEgMTQuMDkzLDE3LjY0MyBDMTMuNzg1LDE4LjkzNSAxNC43NDUsMTkuOTg4IDE2LjAyOCwxOS45ODggQzE4LjM1MSwxOS45ODggMjAuMTM2LDE3LjU1NiAyMC4xMzYsMTQuMDQ2IEMyMC4xMzYsMTAuOTM5IDE3Ljg4OCw4Ljc2NyAxNC42NzgsOC43NjcgQzEwLjk1OSw4Ljc2NyA4Ljc3NywxMS41MzYgOC43NzcsMTQuMzk4IEM4Ljc3NywxNS41MTMgOS4yMSwxNi43MDkgOS43NDksMTcuMzU5IEM5Ljg1NiwxNy40ODggOS44NzIsMTcuNiA5Ljg0LDE3LjczMSBDOS43NDEsMTguMTQxIDkuNTIsMTkuMDIzIDkuNDc3LDE5LjIwMyBDOS40MiwxOS40NCA5LjI4OCwxOS40OTEgOS4wNCwxOS4zNzYgQzcuNDA4LDE4LjYyMiA2LjM4NywxNi4yNTIgNi4zODcsMTQuMzQ5IEM2LjM4NywxMC4yNTYgOS4zODMsNi40OTcgMTUuMDIyLDYuNDk3IEMxOS41NTUsNi40OTcgMjMuMDc4LDkuNzA1IDIzLjA3OCwxMy45OTEgQzIzLjA3OCwxOC40NjMgMjAuMjM5LDIyLjA2MiAxNi4yOTcsMjIuMDYyIEMxNC45NzMsMjIuMDYyIDEzLjcyOCwyMS4zNzkgMTMuMzAyLDIwLjU3MiBDMTMuMzAyLDIwLjU3MiAxMi42NDcsMjMuMDUgMTIuNDg4LDIzLjY1NyBDMTIuMTkzLDI0Ljc4NCAxMS4zOTYsMjYuMTk2IDEwLjg2MywyNy4wNTggQzEyLjA4NiwyNy40MzQgMTMuMzg2LDI3LjYzNyAxNC43MzMsMjcuNjM3IEMyMS45NSwyNy42MzcgMjcuODAxLDIxLjgyOCAyNy44MDEsMTQuNjYyIEMyNy44MDEsNy40OTUgMjEuOTUsMS42ODYgMTQuNzMzLDEuNjg2IiBmaWxsPSIjZTYwMDIzIj48L3BhdGg+PC9nPjwvc3ZnPg==&quot;) 3px 50% / 14px 14px no-repeat rgb(230, 0, 35) !important; position: absolute !important; opacity: 1 !important; z-index: 8675309 !important; display: none; cursor: pointer !important; border: none !important; -webkit-font-smoothing: antialiased !important; top: 145.5px; left: 506.484px;">Сохранить</span><span style="border-radius: 12px; width: 24px !important; height: 24px !important; background: url(&quot;data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pjxzdmcgd2lkdGg9IjI0cHgiIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAwIDI0IDI0IiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPjxkZWZzPjxtYXNrIGlkPSJtIj48cmVjdCBmaWxsPSIjZmZmIiB4PSIwIiB5PSIwIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHJ4PSI2IiByeT0iNiIvPjxyZWN0IGZpbGw9IiMwMDAiIHg9IjUiIHk9IjUiIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgcng9IjEiIHJ5PSIxIi8+PHJlY3QgZmlsbD0iIzAwMCIgeD0iMTAiIHk9IjAiIHdpZHRoPSI0IiBoZWlnaHQ9IjI0Ii8+PHJlY3QgZmlsbD0iIzAwMCIgeD0iMCIgeT0iMTAiIHdpZHRoPSIyNCIgaGVpZ2h0PSI0Ii8+PC9tYXNrPjwvZGVmcz48cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9IiNmZmYiIG1hc2s9InVybCgjbSkiLz48L3N2Zz4=&quot;) 50% 50% / 14px 14px no-repeat rgba(0, 0, 0, 0.4) !important; position: absolute !important; opacity: 1 !important; z-index: 8675309 !important; display: none; cursor: pointer !important; border: none !important; top: 145.5px; left: 784.484px;"></span></body></html>
