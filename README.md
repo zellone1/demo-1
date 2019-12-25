@@ -10,7 +10,8 @@
 
 <!-- Begin Jekyll SEO tag v2.6.1 -->
 
-<title>demo | healthy eating,sports nutrition</title>
+<title>
+</title>
 
 <meta name="generator" content="Jekyll v3.8.5">
 
