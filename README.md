@@ -1,5 +1,4 @@
-<html lang="en" class="smartbanner_show">
-<head>
+<html lang="en" class="smartbanner_show"><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta http-equiv="language" content="en">
 <meta name="viewport" content="width=device-width, initial-scale=1 shrink-to-fit=no">
@@ -32,15 +31,11 @@
 <link rel="alternate" href="https://www.yazio.com/es" hreflang="es">
 <title>Healthy Weight Loss &amp; Eating: Lose Weight Fast with YAZIO</title>
 <link href="https://www.yazio.com/assets/main-scripts-v2-ce97f482.css" rel="stylesheet">
-<link rel="stylesheet" href="https://www.yazio.com/assets/asyncrubik-280476af.css" media="all"><script type="text/javascript" async="" src="https://www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/gtm/js?id=GTM-T9JCGNZ&amp;cid=803692244.1576674757"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script id="asyncfont">
-    /*!
-     loadCSS: load a CSS file asynchronously.
-     [c]2014 @scottjehl, Filament Group, Inc.
-     Licensed MIT
-     */
-    function loadCSS(e,n,o,t){"use strict";var d=window.document.createElement("link"),i=n||window.document.getElementsByTagName("script")[0],s=window.document.styleSheets;return d.rel="stylesheet",d.href=e,d.media="only x",t&&(d.onload=t),i.parentNode.insertBefore(d,i),d.onloadcssdefined=function(n){for(var o,t=0;t<s.length;t++)s[t].href&&s[t].href.indexOf(e)>-1&&(o=!0);o?n():setTimeout(function(){d.onloadcssdefined(n)})},d.onloadcssdefined(function(){d.media=o||"all"}),d}
-        loadCSS("https://www.yazio.com/assets/asyncrubik-280476af.css", document.getElementById('asyncfont'));
+<link rel="stylesheet" href="https://www.yazio.com/assets/asyncrubik-280476af.css" media="all">
+ 
 
+
+</head>
 <body>
 <header>
 <nav class="navbar fixed-top">
@@ -341,95 +336,7 @@ Spanish (Español)
 </div>
 <hr>
 </section>
-<section class="container frontpage-success-stories_v2">
-<div class="row">
-<div class="col-12 d-flex justify-content-center">
-<h2>Success Stories</h2>
-</div>
-</div>
-<div class="row mt-0">
-<div class="col-12 col-sm-12 col-md-6 col-lg-6 success-story">
-<a href="https://www.yazio.com/en/success-stories/1-success-story-of-dennis.html" class="text-decoration-none" onclick="ga('send', 'event', 'SuccessStory', 'FrontpageTeaser', '1')">
-<article>
-<div class="title">
-<span class="title textlink">Dennis, 25</span>
-</div>
-<div class="image-before-after-container">
-<picture data-alt="Dennis lost 110 lb with YAZIO" data-default-src="https://images.yazio.com/frontend/success-stories/en/1-success-story-dennis.jpg?w=357">
-<source srcset="
-                        https://images.yazio.com/frontend/success-stories/en/1-success-story-dennis.jpg?w=357,
-                        https://images.yazio.com/frontend/success-stories/en/1-success-story-dennis.jpg?w=714 2x">
-<img src="https://images.yazio.com/frontend/success-stories/en/1-success-story-dennis.jpg?w=720" alt="Dennis lost 110 lb with YAZIO" title="Dennis lost 110 lb with YAZIO" class="teaser-image">
-</picture>
-<div class="weight-pill font-subtitle">-110 lb</div>
-</div>
-</article>
-<div class="quote-container_v2">
-<svg class="quote_sign_v2" width="39px" height="32px" viewBox="0 0 39 32" version="1.1" xmlns="http://www.w3.org/2000/svg">
-<defs>
-<linearGradient x1="0%" y1="83.6584186%" x2="100%" y2="16.3415814%" id="linearGradient-1">
-<stop stop-color="#F6409C" offset="0%"></stop>
-<stop stop-color="#C2185B" offset="100%"></stop>
-</linearGradient>
-</defs>
-<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-<g id="user-quote-en" transform="translate(19.500000, 16.500000) scale(1, -1) translate(-19.500000, -16.500000) translate(-1.000000, 0.000000)" fill="url(#linearGradient-1)">
-<path d="M37.67,3.35 C39.2058903,4.87598522 40.048184,6.96545194 40,9.13 C40.0868902,11.3278663 39.240562,13.4600322 37.67,15 C36.1513436,16.4694212 34.1129873,17.2782928 32,17.25 C30.3000377,17.2706832 28.6481822,16.6857987 27.34,15.6 C27.0772523,16.4650547 26.9523892,17.3660941 26.97,18.27 C27.048488,20.9378241 28.0484901,23.4961334 29.8,25.51 C31.566513,27.7855549 33.8823165,29.574883 36.53,30.71 L35.35,33 C31.3742208,31.3028649 27.9840753,28.4760051 25.6,24.87 C23.4486711,21.4499284 22.3337687,17.4800425 22.39,13.44 C22.2943169,10.5002598 23.0365104,7.59391325 24.53,5.06 C26.064244,2.41561744 28.9464953,0.849092645 32,1 C34.1335515,0.966071642 36.1859925,1.81673063 37.67,3.35 L37.67,3.35 Z M16.29,3.35 C17.8222243,4.87766873 18.6608178,6.96692335 18.61,9.13 C18.7007633,11.3265711 17.8579609,13.4590065 16.29,15 C14.7517032,16.4733053 12.6893774,17.2723216 10.56,17.22 C8.86651835,17.251107 7.21755998,16.6766312 5.91,15.6 C5.63879577,16.4633717 5.51043915,17.365246 5.53,18.27 C5.60848796,20.9378241 6.60849007,23.4961334 8.36,25.51 C10.126513,27.7855549 12.4423165,29.574883 15.09,30.71 L14,33 C10.0276153,31.2973237 6.63891618,28.47167 4.25,24.87 C2.08460625,21.4542439 0.955724128,17.4840523 1,13.44 C0.904316907,10.5002598 1.64651043,7.59391325 3.14,5.06 C4.66744963,2.43374148 7.5246193,0.870384495 10.56,1 C12.7135883,0.952969871 14.7895909,1.80438456 16.29,3.35 L16.29,3.35 Z" id="Shape"></path>
-</g>
-</g>
-</svg>
-<p class="font-body d-inline">
-If you want to accomplish something, then you will accomplish it, regardless of how bumpy the road is. I always told myself: I can't...
-</p><p class="textlink light">Continue reading</p>
-<p></p>
-</div>
-</a>
-</div>
-<div class="col-12 col-sm-12 col-md-6 col-lg-6 success-story">
-<a href="https://www.yazio.com/en/success-stories/2-success-story-of-sophia.html" class="text-decoration-none" onclick="ga('send', 'event', 'SuccessStory', 'FrontpageTeaser', '2')">
-<article>
-<div class="title">
-<span class="title textlink">Sophia, 24</span>
-</div>
-<div class="image-before-after-container">
-<picture data-alt="Sophia lost 75 lb with YAZIOsuccess-story-ofX" data-default-src="https://images.yazio.com/frontend/success-stories/en/2-success-story-sophia.jpg?w=357">
-<source srcset="
-                        https://images.yazio.com/frontend/success-stories/en/2-success-story-sophia.jpg?w=357,
-                        https://images.yazio.com/frontend/success-stories/en/2-success-story-sophia.jpg?w=714 2x">
-<img src="https://images.yazio.com/frontend/success-stories/en/2-success-story-sophia.jpg?w=720" alt="Sophia lost 75 lb with YAZIOsuccess-story-ofX" title="Sophia lost 75 lb with YAZIOsuccess-story-ofX" class="teaser-image">
-</picture>
-<div class="weight-pill font-subtitle">-75 lb</div>
-</div>
-</article>
-<div class="quote-container_v2">
-<svg class="quote_sign_v2" width="39px" height="32px" viewBox="0 0 39 32" version="1.1" xmlns="http://www.w3.org/2000/svg">
-<defs>
-<linearGradient x1="0%" y1="83.6584186%" x2="100%" y2="16.3415814%" id="linearGradient-1">
-<stop stop-color="#F6409C" offset="0%"></stop>
-<stop stop-color="#C2185B" offset="100%"></stop>
-</linearGradient>
-</defs>
-<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-<g id="user-quote-en" transform="translate(19.500000, 16.500000) scale(1, -1) translate(-19.500000, -16.500000) translate(-1.000000, 0.000000)" fill="url(#linearGradient-1)">
-<path d="M37.67,3.35 C39.2058903,4.87598522 40.048184,6.96545194 40,9.13 C40.0868902,11.3278663 39.240562,13.4600322 37.67,15 C36.1513436,16.4694212 34.1129873,17.2782928 32,17.25 C30.3000377,17.2706832 28.6481822,16.6857987 27.34,15.6 C27.0772523,16.4650547 26.9523892,17.3660941 26.97,18.27 C27.048488,20.9378241 28.0484901,23.4961334 29.8,25.51 C31.566513,27.7855549 33.8823165,29.574883 36.53,30.71 L35.35,33 C31.3742208,31.3028649 27.9840753,28.4760051 25.6,24.87 C23.4486711,21.4499284 22.3337687,17.4800425 22.39,13.44 C22.2943169,10.5002598 23.0365104,7.59391325 24.53,5.06 C26.064244,2.41561744 28.9464953,0.849092645 32,1 C34.1335515,0.966071642 36.1859925,1.81673063 37.67,3.35 L37.67,3.35 Z M16.29,3.35 C17.8222243,4.87766873 18.6608178,6.96692335 18.61,9.13 C18.7007633,11.3265711 17.8579609,13.4590065 16.29,15 C14.7517032,16.4733053 12.6893774,17.2723216 10.56,17.22 C8.86651835,17.251107 7.21755998,16.6766312 5.91,15.6 C5.63879577,16.4633717 5.51043915,17.365246 5.53,18.27 C5.60848796,20.9378241 6.60849007,23.4961334 8.36,25.51 C10.126513,27.7855549 12.4423165,29.574883 15.09,30.71 L14,33 C10.0276153,31.2973237 6.63891618,28.47167 4.25,24.87 C2.08460625,21.4542439 0.955724128,17.4840523 1,13.44 C0.904316907,10.5002598 1.64651043,7.59391325 3.14,5.06 C4.66744963,2.43374148 7.5246193,0.870384495 10.56,1 C12.7135883,0.952969871 14.7895909,1.80438456 16.29,3.35 L16.29,3.35 Z" id="Shape"></path>
-</g>
-</g>
-</svg>
-<p class="font-body d-inline">
-I tried to lose weight a lot of different ways, but they usually didn't work. So, I put together my own diet. Calorie counting was...
-</p><p class="textlink light">Continue reading</p>
-<p></p>
-</div>
-</a>
-</div>
-</div>
-<div class="row">
- <div class="col-12 col-sm-12 col-md-12 col-lg-12">
-<a href="https://www.yazio.com/en/success-stories"><button class="button-default clear-margin-bottom clear-margin-top">All Success Stories</button></a>
-</div>
-</div>
-<hr>
-</section>
+
 <section class="container frontpage-about-us_v2">
 <div class="row">
 <div class="col-12">
