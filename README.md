@@ -1,4 +1,5 @@
-<html lang="en" class="smartbanner_show"><head>
+<html lang="en" class="smartbanner_show">
+<head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta http-equiv="language" content="en">
 <meta name="viewport" content="width=device-width, initial-scale=1 shrink-to-fit=no">
@@ -39,28 +40,7 @@
      */
     function loadCSS(e,n,o,t){"use strict";var d=window.document.createElement("link"),i=n||window.document.getElementsByTagName("script")[0],s=window.document.styleSheets;return d.rel="stylesheet",d.href=e,d.media="only x",t&&(d.onload=t),i.parentNode.insertBefore(d,i),d.onloadcssdefined=function(n){for(var o,t=0;t<s.length;t++)s[t].href&&s[t].href.indexOf(e)>-1&&(o=!0);o?n():setTimeout(function(){d.onloadcssdefined(n)})},d.onloadcssdefined(function(){d.media=o||"all"}),d}
         loadCSS("https://www.yazio.com/assets/asyncrubik-280476af.css", document.getElementById('asyncfont'));
-</script>
-<script type="text/javascript">
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-    ga('create', 'UA-6126022-1', 'auto');
-    ga('require', 'GTM-T9JCGNZ');
-    ga('send', 'pageview');
-    ga('set', 'anonymizeIp', true);
-
-</script> 
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-1033578364"></script>
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'AW-1033578364');
-</script>
-<script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1033578364/?random=1577212562034&amp;cv=9&amp;fst=1577212562034&amp;num=1&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=1080&amp;u_w=1920&amp;u_ah=1005&amp;u_aw=1920&amp;u_cd=24&amp;u_his=2&amp;u_tz=360&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2oac61&amp;sendb=1&amp;ig=1&amp;data=event%3Dgtag.config&amp;frm=0&amp;url=https%3A%2F%2Fwww.yazio.com%2Fen&amp;ref=https%3A%2F%2Fwww.yazio.com%2F&amp;tiba=Healthy%20Weight%20Loss%20%26%20Eating%3A%20Lose%20Weight%20Fast%20with%20YAZIO&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script></head>
 <body>
 <header>
 <nav class="navbar fixed-top">
