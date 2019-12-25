@@ -1,47 +1,41 @@
-<html lang="en-US" class="smartbanner_show"><head>
 
-    <meta charset="UTF-8">
+<html lang="en" class="">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="language" content="en">
+<meta name="viewport" content="width=device-width, initial-scale=1 shrink-to-fit=no">
+<meta name="theme-color" contents="#03a9f4">
+<meta name="apple-mobile-web-app-title" content="YAZIO">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="white">
+<meta name="application-name" content="YAZIO">
+<link rel="icon" href="https://www.yazio.com/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="https://images.yazio.com/yz-app-icon.png">
+<link rel="android-touch-icon" href="https://images.yazio.com/yz-app-icon.png">
+<link rel="mask-icom" href="https://images.yazio.com/yz-app-icon.png">
+<meta name="robots" content="index, follow">
+<meta name="title" content="Healthy Weight Loss &amp; Eating: Lose Weight Fast with YAZIO">
+<meta name="description" content="YAZIO is your app for healthy eating and weight loss. With YAZIO you lose weight fast and stay happy longer! 100% free. Welcome to a healthier life!">
+<meta name="yazio-apple-itunes-app" content="app-id=946099227">
+<meta name="yazio-google-play-app" content="app-id=com.yazio.android&amp;referrer=utm_source%3Dyazio.com%26utm_medium%3Dapp-banner">
+<meta property="og:site_name" content="YAZIO">
+<meta property="og:url" content="https://www.yazio.com/en">
+<meta property="og:image" content="https://images.yazio.com/yz-app-icon.png">
+<meta property="og:type" content="website">
+<meta property="og:description" content="YAZIO is your app for healthy eating and weight loss. With YAZIO you lose weight fast and stay happy longer! 100% free. Welcome to a healthier life!">
+<meta property="og:title" content="Healthy Weight Loss &amp; Eating: Lose Weight Fast with YAZIO">
+<link rel="canonical" href="https://www.yazio.com/en">
+<link rel="alternate" href="https://www.yazio.com/en" hreflang="en">
+<link rel="alternate" href="https://www.yazio.com/fr" hreflang="fr">
+<link rel="alternate" href="https://www.yazio.com/de" hreflang="de">
+<link rel="alternate" href="https://www.yazio.com/it" hreflang="it">
+<link rel="alternate" href="https://www.yazio.com/pt" hreflang="pt">
+<link rel="alternate" href="https://www.yazio.com/es" hreflang="es">
+<title>Healthy Weight Loss & Eating: Lose Weight Fast with YAZIO</title>
+<link href="https://www.yazio.com/assets/main-scripts-v2-ce97f482.css" rel="stylesheet" />
+</head>
 
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-
-
-<!-- Begin Jekyll SEO tag v2.6.1 -->
-
-<title>
-</title>
-
-<meta name="generator" content="Jekyll v3.8.5">
-
-<meta property="og:title" content="demo">
-
-<meta property="og:locale" content="en_US">
-
-<meta name="description" content="healthy eating,sports nutrition">
-
-<meta property="og:description" content="healthy eating,sports nutrition">
-
-<link rel="canonical" href="https://yazio-app.github.io/demo/">
-
-<meta property="og:url" content="https://yazio-app.github.io/demo/">
-
-<meta property="og:site_name" content="demo">
-
-<script type="application/ld+json">
-
-{"@type":"WebSite","url":"https://yazio-app.github.io/demo/","headline":"demo","name":"demo","description":"healthy eating,sports nutrition","@context":"https://schema.org"}</script>
-
-<!-- End Jekyll SEO tag -->
-
-
-
-    <style class="anchorjs"></style><link rel="stylesheet" href="/demo/assets/css/style.css?v=0ad5ef1e2192ee7ee9eaf10d03e6b748945a1af1">
-
-  </head>
-
-  <body>
+<body>
 
     <div class="container-lg px-3 my-5 markdown-body">
 
@@ -1061,4 +1055,5 @@ Contact
 
 
 
-</body></html>
+</body>
+</html>
