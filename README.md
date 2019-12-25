@@ -37,71 +37,11 @@
 
 <body>
 
-    <div class="container-lg px-3 my-5 markdown-body">
 
-      
-
-      <h1><a href="https://yazio-app.github.io/demo/">demo</a></h1>
-
-      
+<title> 
+</title>
 
 
-
-      
-
-    <meta charset="UTF-8">
-
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-
-
-<!-- Begin Jekyll SEO tag v2.6.1 -->
-
-<title>demo | healthy eating,sports nutrition</title>
-
-<meta name="generator" content="Jekyll v3.8.5">
-
-<meta property="og:title" content="demo">
-
-<meta property="og:locale" content="en_US">
-
-<meta name="description" content="healthy eating,sports nutrition">
-
-<meta property="og:description" content="healthy eating,sports nutrition">
-
-<link rel="canonical" href="https://yazio-app.github.io/demo/">
-
-<meta property="og:url" content="https://yazio-app.github.io/demo/">
-
-<meta property="og:site_name" content="demo">
-
-<script type="application/ld+json">
-
-{"@type":"WebSite","url":"https://yazio-app.github.io/demo/","headline":"demo","name":"demo","description":"healthy eating,sports nutrition","@context":"https://schema.org"}</script>
-
-<!-- End Jekyll SEO tag -->
-
-
-
-    <style class="anchorjs"></style><link rel="stylesheet" href="/demo/assets/css/style.css?v=afb4e3c7038c2282daf1d32137ab68a11f2ee624">
-
-  
-
-  
-
-    <div class="container-lg px-3 my-5 markdown-body">
-
-      
-
-      <h1><a href="https://yazio-app.github.io/demo/">demo</a></h1>
-
-      
-
-
-
-      
 
 
 
